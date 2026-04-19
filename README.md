@@ -1,4 +1,4 @@
-# Hi, I'm Hüsna Betül Patat 👋
+# Hi, I'm Hüsna Betül Patat ｡𖦹°‧
 
 Computer Engineering Student @ Abdullah Gül University  
 GPA: 3.59 / 4.00
