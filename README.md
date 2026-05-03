@@ -13,7 +13,7 @@ Currently building projects with Java, C#, Flutter, and .NET while improving my 
 ## Selected Projects
 - [Whisper-Digital Journal App](https://github.com/husnabetulpatat/whisper)
 - [Courtly AGÜ - AGÜ Tennis Platform](https://github.com/husnabetulpatat/courtly-agu.git)
-- [Netpulse Insight -Angular-based telecom network monitoring dashboard. Visualizes simulated 4G/5G KPIs, alarms, and site performance metrics.](https://github.com/husnabetulpatat/netpulse-insight)
+- [Netpulse Insight -Angular-based telecom network monitoring dashboard.](https://github.com/husnabetulpatat/netpulse-insight)
 - [LEMS-Laboratory Equipment Management System](https://github.com/MrFaruk0/laboratory-equipment-management-system)
 - [Flow 38-Logistic Management System](https://github.com/husnabetulpatat/comp206-flow38-logistics)
 - [TuneMatch-Song Recommendation App](https://github.com/MrFaruk0/tunematch)
