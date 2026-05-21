@@ -1,7 +1,6 @@
 # Hi, I'm Hüsna Betül Patat ｡𖦹°‧
 
-Computer Engineering Student @ Abdullah Gül University  
-GPA: 3.59 / 4.00
+Computer Engineering Student @ Abdullah Gül University 
 
 Focused on software development, backend systems, and mobile applications.  
 Currently building projects with Java, C#, Flutter, and .NET while improving my problem-solving and software development fundamentals.
